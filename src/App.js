@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import WelcomePage from "./pages/WelcomePage/WelcomePage";
 import Counter from "./components/Counter/Counter";
